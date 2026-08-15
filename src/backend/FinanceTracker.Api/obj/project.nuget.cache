@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvdsdhW9W8A=",
+  "success": true,
+  "projectFilePath": "/Users/mrmabrur/Documents/dev/finance-app/financial-tracker/src/backend/FinanceTracker.Api/FinanceTracker.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrmabrur/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/mrmabrur/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
